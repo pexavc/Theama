@@ -1,2 +1,2 @@
 # Theama
-GPT/TTS Visual Guide for the Visually Impaired, iOS
+GPT/TTS Visual Guidance for Persons with Vision Impairment or Low Vision, iOS & (macOS Testing Suite)
